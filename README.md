@@ -1,15 +1,16 @@
 ## Welcome to my profile <3
-My name is Laisson Bruno, and I currently live in Belo Horizonte – MG (Brazil)
+My name is Laisson Bruno, and I currently live in Belo Horizonte – MG (Brazil).
 I'm a software engineering student and I've written code since 2008, when I was 12 years old.
 Currently besides college I'm also studying fullstack and mobile development using Kotlin and Java.
-In addition, I am also a development intern at Vallourec, mainly using python to assist in data analysis, through automation. I also use other tools like PowerBi, Excel and SAP.
+In addition, I am also a development intern at Vallourec, mainly using python to assist in data analysis, through automation. 
+I also use other tools like PowerBi, Excel and SAP.
 
-How to talk to me:
-• Website: https://www.laissonbruno.com/
-• E-Mail: contato@laissonbruno.com
-• Linkedin: https://www.linkedin.com/in/laissonbruno/
-• Instagram: @laissonbrunokg
-• GitHub: https://github.com/laissonbruno
+# How to talk with me:
+- Website: https://www.laissonbruno.com/ 
+- E-Mail: contato@laissonbruno.com
+- Linkedin: https://www.linkedin.com/in/laissonbruno/
+- Instagram: https://www.instagram.com/laissonbrunokg
+- GitHub: https://github.com/laissonbruno
 
 <div align="center">
   <a href="https://github.com/laissonbruno">
@@ -20,13 +21,13 @@ How to talk to me:
 ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
