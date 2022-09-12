@@ -1,4 +1,15 @@
-## Hi, I'm Laisson Bruno, development intern, studying software engineering.
+## Welcome to my profile <3
+My name is Laisson Bruno, and I currently live in Belo Horizonte – MG (Brazil)
+I'm a software engineering student and I've written code since 2008, when I was 12 years old.
+Currently besides college I'm also studying fullstack and mobile development using Kotlin and Java.
+In addition, I am also a development intern at Vallourec, mainly using python to assist in data analysis, through automation. I also use other tools like PowerBi, Excel and SAP.
+
+How to talk to me:
+• Website: https://www.laissonbruno.com/
+• E-Mail: contato@laissonbruno.com
+• Linkedin: https://www.linkedin.com/in/laissonbruno/
+• Instagram: @laissonbrunokg
+• GitHub: https://github.com/laissonbruno
 
 <div align="center">
   <a href="https://github.com/laissonbruno">
