@@ -10,6 +10,7 @@ I also use other tools like PowerBi, Excel and SAP.
 - E-Mail: contato@laissonbruno.com
 - Linkedin: https://www.linkedin.com/in/laissonbruno/
 - Instagram: https://www.instagram.com/laissonbrunokg
+- Instagram de Fotografia: https://www.instagram.com/laissonbrg
 - GitHub: https://github.com/laissonbruno
 
 <div align="center">
