@@ -1,5 +1,5 @@
 ## Welcome to my profile <3
-My name is Laisson Bruno, and I'm a front end developer with 3+ years of experience.
+My name is Laisson Bruno, and I'm a Software developer with 3+ years of experience.
 
 # How to talk with me:
 - Website: https://www.laissonbruno.com/ 
