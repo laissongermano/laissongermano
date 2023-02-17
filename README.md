@@ -6,7 +6,6 @@ My name is Laisson Bruno, and I'm a Software developer with 3+ years of experien
 - E-Mail: contato@laissonbruno.com
 - Linkedin: https://www.linkedin.com/in/laissonbruno/
 - Instagram: https://www.instagram.com/laissonbrunokg
-- Instagram de Fotografia: https://www.instagram.com/laissonbrg
 - GitHub: https://github.com/laissonbruno
 
 <div align="center">
