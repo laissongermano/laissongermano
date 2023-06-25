@@ -1,5 +1,5 @@
 ## Welcome to my profile <3
-My name is Laisson Bruno, and I'm a Software developer with 10+ years of experience.
+My name is Laisson Bruno, and I'm a Software developer.
 
 # How to talk with me:
 - Website: https://www.laissonbruno.com.br/ 
