@@ -3,7 +3,6 @@ My name is Laisson Bruno, and I'm a Software developer.
 
 # How to talk with me:
 - Website: https://www.laissonbruno.com.br/ 
-- E-Mail: contato@laissonbruno.com
 - Linkedin: https://www.linkedin.com/in/laissonbruno/
 - Instagram: https://www.instagram.com/laissonbrunokg
 
