@@ -1,5 +1,7 @@
 ## Welcome to my profile <3
-My name is Laisson Bruno, and I'm a Software developer.
+My name is Laisson Bruno, and I'm a Full-Stack developer, with around 10 years of experience in front, and around 2 years in back.
+
+I always try to update myself or review the base, I believe that we always have to learn something new, or different ways of doing the same thing.
 
 # How to talk with me:
 - Website: https://www.laissonbruno.com.br/ 
