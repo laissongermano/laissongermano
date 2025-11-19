@@ -1,7 +1,5 @@
 # Hi there, I'm Laisson 👋 
 
-## I'm a Data Scientist, Developer, Researcher and Former Teacher!!
-
 - 🌱 I’m currently learning about Robotics
 - [Linkedin Profile](https://www.linkedin.com/in/laissongermano/)
 - [LeetCode Profile](https://leetcode.com/u/laissongermano/)
